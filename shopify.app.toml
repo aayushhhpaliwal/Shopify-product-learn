@@ -3,7 +3,7 @@
 client_id = "cc5c8a53347922d04bf16978c8eda13d"
 name = "template app"
 handle = "template-app-43"
-application_url = "https://tobacco-final-telling-emergency.trycloudflare.com"
+application_url = "https://fruits-thee-gamecube-motorcycle.trycloudflare.com"
 embedded = true
 
 [build]
@@ -27,9 +27,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://tobacco-final-telling-emergency.trycloudflare.com/auth/callback",
-  "https://tobacco-final-telling-emergency.trycloudflare.com/auth/shopify/callback",
-  "https://tobacco-final-telling-emergency.trycloudflare.com/api/auth/callback"
+  "https://fruits-thee-gamecube-motorcycle.trycloudflare.com/auth/callback",
+  "https://fruits-thee-gamecube-motorcycle.trycloudflare.com/auth/shopify/callback",
+  "https://fruits-thee-gamecube-motorcycle.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
